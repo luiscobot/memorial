@@ -32,4 +32,5 @@ h1 {
 
 .contador {
 	font-size: 4rem;
+	font-variant-numeric: tabular-nums;
 }
